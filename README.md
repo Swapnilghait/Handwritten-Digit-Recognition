@@ -28,8 +28,6 @@ Output Layer: Provides the final classification output.
 
 Implementation Steps
 Data Preprocessing:
-
-
 Normalize the pixel values to range [0, 1].
 Reshape the images to fit the model input requirements.
 
