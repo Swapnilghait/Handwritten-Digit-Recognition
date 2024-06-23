@@ -56,14 +56,6 @@ The model is a Convolutional Neural Network (CNN) with the following architectur
 
 - **Make Predictions:** Use the trained model to make predictions on new, unseen data.
 
-## Results
-
-The model achieved an accuracy of **XX%** on the testing dataset, demonstrating its effectiveness in recognizing handwritten digits. Below are additional performance metrics:
-
-- **Precision:** YY%
-- **Recall:** ZZ%
-- **F1 Score:** AA%
-
 ## Dependencies
 
 - **Python:** 3.x
