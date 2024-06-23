@@ -6,6 +6,7 @@ This project focuses on handwritten digit recognition using a Convolutional Neur
 
 ## Dataset
 
+
 - **Source:** [Kaggle](https://www.kaggle.com/zalando-research/fashionmnist)
 - **Total Images:** 70,000
 - **Classes:** 10 (T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, Ankle boot)
