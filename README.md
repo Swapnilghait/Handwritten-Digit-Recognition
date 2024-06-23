@@ -1,7 +1,7 @@
 # Handwritten Digit Recognition using Machine Learning
 
 
-Project Overview
+# Project Overview
 This project focuses on handwritten digit recognition using a Convolutional Neural Network (CNN) and the Fashion MNIST dataset from Kaggle. The dataset contains 70,000 images of fashion items, which are used to train, test, and evaluate the performance of the CNN model.
 
 Dataset
